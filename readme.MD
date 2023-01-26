@@ -2,7 +2,7 @@
 
 ### Setup
 - create database MySQL with name `java_test_dev`
-- import sql
+- import database using dump.sql
   - `cd root project`
   - `mysql -u YOUR_USERNAME_DB -p java_test_dev < ./dump-java_test_dev-202301261923.sql`
 

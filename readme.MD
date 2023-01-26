@@ -19,3 +19,14 @@ export DANS_API_BASEURL=http://dev3.dansmultipro.co.id/api
 
 ### Postman Collections
 - https://api.postman.com/collections/7368471-15aad484-aa07-4313-85c7-fc4f73f73f0a?access_key=PMAT-01GQQ43H782R3CNAA0FNFN9GVQ
+
+### Run
+
+- register
+![Screen Shot 2023-01-26 at 8 29 42 PM](https://user-images.githubusercontent.com/58647636/214848074-9231f2aa-1802-42d4-8f15-ef5ede0eb1ed.png)
+- login
+![Screen Shot 2023-01-26 at 8 29 51 PM](https://user-images.githubusercontent.com/58647636/214848084-bbd429db-dfa6-4abc-bf7a-82e917a360cf.png)
+- list job
+![Screen Shot 2023-01-26 at 8 30 02 PM](https://user-images.githubusercontent.com/58647636/214848096-3fe3cd37-4ae1-4133-af30-1071c959e2d6.png)
+- detail job
+![Screen Shot 2023-01-26 at 8 30 09 PM](https://user-images.githubusercontent.com/58647636/214848105-ae10bd32-c705-4899-9a07-a5049cd106c7.png)

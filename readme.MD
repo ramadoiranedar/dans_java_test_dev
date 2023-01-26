@@ -15,7 +15,7 @@ export JWT_SECRET=s3cr3tLoremIpsumisdummys3cr3tLoremIpsumisdummys3cr3tLoremIpsum
 export DANS_API_BASEURL=http://dev3.dansmultipro.co.id/api
 ```
 - make sure you have internet connection
-- ru
+- then, run
 
 ### Postman Collections
 - https://api.postman.com/collections/7368471-15aad484-aa07-4313-85c7-fc4f73f73f0a?access_key=PMAT-01GQQ43H782R3CNAA0FNFN9GVQ
